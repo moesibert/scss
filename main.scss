@@ -1,11 +1,7 @@
-// main.scss
-@import "vars";
-
-@import "utility";
 @import "bootstrap/bootstrap";
 
-@import "base";
+@import "mixins";
+@import "vars";
 @import "layout";
-@import "utility";
 @import "modules";
 @import "state";
